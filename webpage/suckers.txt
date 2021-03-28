@@ -1,0 +1,6 @@
+Shakhnoza;SOCIE;12423543;Visa
+Kamila;SOCIE;124231421;Master Card
+Makhbuba;SOCIE;31435531;Visa
+Javokhir;SOCIE;521525543;Master Card
+Damir;SOCIE;90909219231;Visa
+Noza;SOL;324143;Master Card
